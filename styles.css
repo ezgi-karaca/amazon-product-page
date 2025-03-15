@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font-family: Arial, Helvetica, sans-serif
+}
+.path {
+  color: #565959;
+  font-size: medium;
+}
+
+.link{
+  color: #007185;
+}
+.title {
+  font-weight: lighter;
+}
+
+.main-img {
+  width: 300px;
+  box-shadow: 0px 2px 5px lightgray;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+.right{
+  width: 600px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.ratings {
+  width: 100px;
+}
